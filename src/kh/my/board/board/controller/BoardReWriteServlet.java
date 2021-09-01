@@ -15,7 +15,7 @@ import kh.my.board.board.model.vo.Board;
 /**
  * Servlet implementation class BoardReWriteServlet
  */
-@WebServlet("/boardrewrite.kh")
+@WebServlet("/deleterewrite.kh")
 public class BoardReWriteServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
